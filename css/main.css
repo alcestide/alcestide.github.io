@@ -248,6 +248,16 @@ html,body{
 		
 	}
 
+	.fa-soundcloud{
+
+		color:white;
+		background: black;
+		height:70px;
+		width:70px;
+		font-size: 300%
+		
+	}
+
 		
 	.fa-steam:hover{
 
