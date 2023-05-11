@@ -43,7 +43,9 @@
    h1,h2,h3,h4,h5{padding:0;margin:0;}
    
    a,a:hover{
+	 color: lightblue;
 	 text-decoration:none;
+	 
 	}
 	.btn-default {
     color: #333;
@@ -256,24 +258,6 @@ html,body{
 		width:70px;
 		font-size: 300%
 		
-	}
-
-		
-	.fa-steam:hover{
-
-		color:grey
-	}
-
-		
-	.fa-github:hover{
-
-		color:grey
-	}
-
-	.fa-telegram-plane:hover{
-
-		color: grey
-
 	}
 
 

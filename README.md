@@ -2,7 +2,7 @@
 Super messy unfinished static website test hosted here on GitHub. 
 
 Probably never going to finish it and properly code it so that it doesn't look like an 
-ugly disgusting creature which barely manages to survive god know how.
+ugly disgusting creature which barely manages to survive god knows how.
 
 Enough sh**-talking, here goes nothing.
 
