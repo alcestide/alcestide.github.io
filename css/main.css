@@ -113,6 +113,10 @@ color: grey
 	text-align:center;
 }
 
+button {
+	font-family:  'night_still_comesregular';
+}
+
 img {
 	-webkit-filter: grayscale(100%);
 	filter: grayscale(100%);
@@ -315,8 +319,27 @@ html,body{
 		color: white;
 	  }
 	  
+	  @import url("https://fonts.googleapis.com/css2?family=Quicksand:wght@600&display=swap");
 
-
+	  
+	  body {
+		font-family: "Quicksand", sans-serif;
+	  }
+	  
+	  .heading {
+		text-align: center;
+	  }
+	  
+	  .contact-form{
+		max-width: 700px;
+		display: flex;
+		flex-direction: column;
+	  
+		.btn {
+		  width: 100%;
+		}
+	  
+	  }
 
 
 
