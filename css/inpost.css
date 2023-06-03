@@ -44,6 +44,7 @@
    
    
 	.btn-default {
+		text-align: center;
     color: #333;
     background-color:transparent;
     border-color:transparent;
@@ -58,6 +59,7 @@
 	margin-top:20px;
 }
 	.btn-default:hover {
+		text-align: center;
 		background:transparent;
 		color:red;
 	}
@@ -206,6 +208,7 @@ html,body{
 	
 	.btn-transparent{
 	background:transparent;
+	text-align: center;
 	border-radius:20px;
 	color:#fff;
 	padding:10px 30px;
@@ -216,6 +219,7 @@ html,body{
 	border-color: #fff;
 	}
 	.btn-transparent:hover{
+		text-align: center;
 	background:transparent;
 	color:#fff;
 	}
