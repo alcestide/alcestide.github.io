@@ -20,7 +20,7 @@
                 <div class="col-sm-12 col-md-12">
         <div class="homepage text-center">
           <div class="main_header">
-            <h2>{{ page.title }}</h2>
+            <h2>MBR vs GPT: Which one?</h2>
                             </h2>
                             <form action="/blog" >
                                 <button class="btn btn-default btn-transparent" type="submit">Go Back</button>
@@ -30,7 +30,17 @@
     </div>
         </div>
         <div class="entirebody">
-          {{ content }}
+          <h2 id="history">History</h2>
+<p><br />
+Along with the <strong>IBM Personal Computer XT</strong> and <strong>PC DOS 2.0</strong>, 1983 saw the introduction of the <strong>Master Boot Record (MBR)</strong>. Since then, the system component has been used on the one hand as a boot manager to boot and install BIOS-based computer systems, but also as a partition table to efficiently split up the available memory. It quickly became the standard for many storage devices, HDDs, pendrives, memory cards etc. That was until the invention of the <strong>Unified Extensible Firmware Interface (UEFI)</strong>, and therefore GPT, which is now considered as MBR’s official successor.</p>
+
+<h2 id="limitations">Limitations</h2>
+<p><br />
+One of the key weaknesses of the Master Boot Record was that the technology only supports four primary partitions. Anyone wanting to set up more than four areas has to use the “extended partitions”. Also, MBR partitions can only be used on hard drives or storage devices <strong>up to 2TBs</strong>. GPT on the other hand supports drive with a capacity higher than 2TB and supports up to 128 partitions. MBR stores all information in one place, which could get corrupted and fail. GPT writes information in several drive areas and includes a secondary backup GPT Table for recovery if the first one gets corrupted.</p>
+<ul>
+  <li>[ ]</li>
+</ul>
+
         </div>
         <br><br><br>
         <div class="footer">

@@ -63,9 +63,12 @@
 	}
 
 
-
-
-
+	ul {
+		display: table;
+		margin: 0 auto;
+		text-align: center;
+	  }
+	
 .entirebody p {
 
 	color: white;
@@ -73,7 +76,9 @@
 		font-family: 'night_still_comesregular';
 		letter-spacing:1px;
 		text-align:center;
-		margin-top: 0px
+		margin-top: 0px;
+		text-align: center;
+
 }
 
 .entirebody  h2 {
@@ -83,7 +88,9 @@
 	letter-spacing: 8px;
 	font-family: 'Lato', sans-serif;
 	text-transform: uppercase;
-	margin-top: 20px
+	margin-top: 20px;
+	text-align: center;
+
 
 }
 
@@ -92,15 +99,21 @@
 	text-align:center;
 	font-size: 22px;
 	font-family: 'Lato', sans-serif;
+	text-align: center;
+
 
 }
 
 .entirebody li {
 	list-style-type: none;
+	text-align: center;
+
 }
 
 .entirebody  a {
 	color:white;
+	text-align: center;
+
   }
 
 .entirebody  h1 {
@@ -115,7 +128,7 @@
 }
 
 .entirebody  a:hover{
-
+text-align: center;
 color: white
 		
 }
