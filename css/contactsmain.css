@@ -87,6 +87,17 @@
 
 }
 
+.entirebody h3 {
+	color:white;
+	text-align:center;
+	font-size: 20px;
+	letter-spacing: 8px;
+	font-family: 'Lato', sans-serif;
+	text-transform: uppercase;
+	margin-top: 20px
+
+}
+
 .entirebody a {
 	color:white;
   }
