@@ -1,13 +1,4 @@
 # Alcestide.com
-Super messy unfinished static website test hosted here on GitHub. 
+Personal website based on Jekyll.
 
-Probably never going to finish it and properly code it so that it doesn't look like an 
-ugly disgusting creature which barely manages to survive god knows how.
-
-Enough sh**-talking, here goes nothing.
-
-![2023-05-08_21-22](https://user-images.githubusercontent.com/106203061/236914011-c00bbc75-5d96-4453-a2f6-aad8819f2760.png)
-
-
-### Link
-https://alcestide.com
+![2023-06-03_13-29](https://github.com/alcestide/alcestide.github.io/assets/106203061/4137c061-7f1f-43b8-a4ca-fc6ca86bf9e2)
