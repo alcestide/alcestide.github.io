@@ -26,6 +26,8 @@
 	   font-size:15px;
 	   font-family: 'night_still_comesregular';
 	   color:#8f8f8f;
+	   overflow-wrap: break-word;
+
    }
    .light-bg{
 	   background:#efefef;
@@ -60,6 +62,7 @@
 	.btn-default:hover {
 		background:transparent;
 		color:red;
+
 	}
 
 
@@ -67,8 +70,14 @@
 		display: table;
 		margin: 0 auto;
 		text-align: center;
+		word-wrap: break-word;
 	  }
-	
+.entirebody {
+	position: relative;
+	width: 70%;
+	transform: translateX(21%);
+
+	}
 .entirebody p {
 
 	color: white;
@@ -77,7 +86,9 @@
 		letter-spacing:1px;
 		text-align:center;
 		margin-top: 0px;
-		text-align: center;
+		
+		
+
 
 }
 
@@ -90,6 +101,7 @@
 	text-transform: uppercase;
 	margin-top: 20px;
 	text-align: center;
+	word-wrap: break-word;
 
 
 }
@@ -100,6 +112,7 @@
 	font-size: 22px;
 	font-family: 'Lato', sans-serif;
 	text-align: center;
+	word-wrap: break-word;
 
 
 }
@@ -107,12 +120,15 @@
 .entirebody li {
 	list-style-type: none;
 	text-align: center;
+	word-wrap: break-word;
+	
 
 }
 
 .entirebody  a {
 	color:white;
 	text-align: center;
+	word-wrap: break-word;
 
   }
 
@@ -123,13 +139,15 @@
 	letter-spacing: 8px;
 	font-family: 'Lato', sans-serif;
 	text-transform: uppercase;
-	margin-top: 20px
+	margin-top: 20px;
+	word-wrap: break-word;
 
 }
 
 .entirebody  a:hover{
 text-align: center;
-color: white
+color: white;
+word-wrap: break-word;
 		
 }
 
