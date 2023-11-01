@@ -164,7 +164,7 @@ html,body{
     -webkit-backface-visibility: hidden;
     -webkit-transform: translateZ(0) scale(0.5, 0.5);
     transform: translateZ(0);
-  background:rgb(0, 0, 0) url(/img/background.png) no-repeat;
+  background:rgb(0, 0, 0) url(/img/home.png) no-repeat;
   background-size:cover;
   opacity: 0.6;
   background-position-y: 80%;
