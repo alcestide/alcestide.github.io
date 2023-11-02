@@ -8,5 +8,7 @@ I keep all my main *social links* here, including my e-mail and a bunch of other
 Hosted here on **GitHub Pages** and mapped through CNAME record to https://alcestide.com.
 
 ## Screenshots
-![2023-06-03_13-29](https://github.com/alcestide/alcestide.github.io/assets/106203061/4137c061-7f1f-43b8-a4ca-fc6ca86bf9e2)
-![2023-06-03_16-08](https://github.com/alcestide/alcestide.github.io/assets/106203061/621e3acd-9ce6-44c9-89c4-901de0870987)
+
+![firefox_zbiw5vP08Z](https://github.com/alcestide/alcestide.github.io/assets/106203061/eb483805-6c17-4c26-8d90-d34dbf3501d0)
+![firefox_OhxMs4gmow](https://github.com/alcestide/alcestide.github.io/assets/106203061/d09ee28e-6f9e-415d-811a-e1dbc18a0b34)
+![firefox_OW7YfytH2p](https://github.com/alcestide/alcestide.github.io/assets/106203061/5a2b4f6e-4f97-4961-a265-e6ee464fb077)
