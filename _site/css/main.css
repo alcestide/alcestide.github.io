@@ -264,6 +264,15 @@ html,body{
 		
 	}
 
+	.fa-linkedin{
+
+		color:white;
+		background: black;
+		height:70px;
+		width:70px;
+		font-size: 300%
+		
+	}
 
 	.btn-transparent{
 	background:transparent;
