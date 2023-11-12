@@ -5,9 +5,8 @@ layout: blog
     {% for post in site.posts %}
     <li><span><br><p>{{ post.date | date_to_string }}</span> 
         &raquo; </p><a href="{{ post.url }}"><h2>{{ post.title }}<br><br>
-        <img src="{{ post.image }}" height="220">
+        <img src="{{ post.image }}" height="300">
         </h2></a></li>        <br>
-
-        <p> {{ post.content | strip_html | truncatewords:80}}<br>
+        <p> {{ post.content | strip_html | truncatewords:60}}<br>
             <a href="{{ post.url }}"><b>Read more...</b></a><br><br>
     {% endfor %}
