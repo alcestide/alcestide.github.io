@@ -207,11 +207,6 @@ html,body{
   color:#eee
 }
 
-img {
-	-webkit-filter: grayscale(100%);
-	filter: grayscale(100%);
-  }
-
 @keyframes grow{
   0% { transform:scale(1.0)}
   50% { transform:scale(1.2)}

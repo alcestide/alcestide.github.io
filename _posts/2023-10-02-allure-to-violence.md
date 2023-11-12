@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Allure to Violence
+image: "/img/source/aoyama13.jpg"
 ---
 
 It's accurate to **assert** that *human beings* have been **captivated** by the concept of **death** since the dawn of their very **consciousness** and the **realization** of their own **mortality**.

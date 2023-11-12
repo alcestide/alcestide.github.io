@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Heil To Quake
+image: "https://jovial-platypus-b91c44.netlify.app/egs_quake_idsoftwarenightdivestudios_s1_2560x1440-b31ed6ea4d89261b0556846ffd842d67.jpeg"
 ---
 
 In the realm of <b>classic</b> first-person <b>shooters</b>, my enduring passion traces its <b>roots</b> back to <i>1996</i> with the iconic game <b>Quake</b> developed by <b>id Software</b>. Over the years, my infatuation with this timeless <b>masterpiece</b> has only deepened, leading me to revisit its virtual landscapes pretty much on a <b>regular</b> basis. 
