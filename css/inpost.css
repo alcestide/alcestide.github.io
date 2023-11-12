@@ -17,7 +17,12 @@
 	src:url('../fonts/nightstillcomes_bold_final_sample.woff2') format('woff2');
 }
 
-
+@font-face{
+	font-family: 'flowrise';
+	font-style:normal;
+	font-weight:400;
+	src:local('FLOWRISE'),url(https://fonts.cdnfonts.com/s/106523/FLOWRISE.woff) format('woff')
+}
 
 @media screen and (max-height: 450px) {
     .sidenav {padding-top: 15px;}
@@ -190,7 +195,7 @@ html,body{
 	.main_header h2
 	{
 		font-size:60px;
-		font-family: 'FLOWRISE', sans-serif;                    
+		font-family: 'flowrise', sans-serif;                    
 
 	}
 	.main_header h3
