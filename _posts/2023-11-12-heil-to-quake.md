@@ -7,7 +7,7 @@ image: "https://jovial-platypus-b91c44.netlify.app/egs_quake_idsoftwarenightdive
 In the realm of <b>classic</b> first-person <b>shooters</b>, my enduring passion traces its <b>roots</b> back to <i>1996</i> with the iconic game <b>Quake</b> developed by <b>id Software</b>. Over the years, my infatuation with this timeless <b>masterpiece</b> has only deepened, leading me to revisit its virtual landscapes pretty much on a <b>regular</b> basis. 
 
 Quake was one of the first <b>fully 3D </b>first-person shooter games. It has its influences from <b>Doom</b> in terms of gameplay, design, and story, and it played truly a <b>pivotal</b> role in modernizing FPS gaming. 
-I personally consider it to be the <b>progenitor</b> of <b>contemporary</b> first-person shooters. Especially noteworthy is the fact that the first <i>Half-Life</i> released in 1998 operated on the Quake Engine. 
+I personally consider it to be the <b>progenitor</b> of <b>contemporary</b> first-person shooters. Especially noteworthy is the fact that the first <i>Half-Life</i> released in 1998 operated on a modified version of the Quake Engine. 
 
 This detail <b>underscores</b> its profound <b>impact</b>, as its engine served as the technological <b>backbone</b> for one of the most <b>influential</b> and groundbreaking titles of its time.
 
@@ -15,9 +15,9 @@ This detail <b>underscores</b> its profound <b>impact</b>, as its engine served 
 <img src="https://jovial-platypus-b91c44.netlify.app/egs_quake_idsoftwarenightdivestudios_s1_2560x1440-b31ed6ea4d89261b0556846ffd842d67.jpeg" height="300">
 <br><br>
 
-My unwavering devotion towards Quake is undoubtedly deep. It holds a profound <b>emotional</b> significance for me, and even now, it has the power to <b>resonate</b> with the <b>deepest</b> chords of my heart, evoking a sense of <b>nostalgia</b> and tenderness. It's astounding how the distinctive <b>style</b>, <b>aesthetic</b>, and gameplay continue to <b>captivate</b> me, despite how old and "outdated" it is. 
+I first started my journey as a kid with Quake III Arena, getting constantly hammered by bots on easy difficulty! Then I stumbled upon Quake 1 and instantly became <b>smitten</b> with it. I kept going with the second installment and later delved into the multiplayer world of Quake Live. The entire Quake series means a lot to me, but<i> Quake 1</i> still reigns <b>supreme</b> in my heart.
 
-From the <b>gruesome</b> monsters to the meticulously crafted maps, the immersive <i>Lovecraftian</i> environments, the atmospheric ambiance, the iconic <b>arsenal</b> of weapons and their respective sounds – every element of Quake contributes to its timeless <b>allure</b>. 
+I have such <b>vivid</b> memories of those days when I was just a little kid, completely <b>absorbed</b> in playing the first episode without a break. Even during my <b>teen</b> years, I was all about mastering <b>bunny-hopping</b>, perfecting strafing and <b>rocket-jumping</b>, uncovering hidden map <b>secrets</b>, and trying to <b>speed-run</b> through levels!
 
 This piece of software is not just a game for me; it's a mix of <b>memories</b> and feelings that have stood the test of time, creating a connection that goes beyond <b>pixels</b> and <i>lines of code</i>. 
 It's not rare for me to contemplate how adeptly this game <b>encapsulates</b> nearly everything I <b>appreciate</b> and hold dear.
@@ -50,3 +50,12 @@ For <i>newcomers</i> looking to experience the title in its original form withou
 
 For those who might not be too <i>tech-savvy</i>, the <i>Quake Remastered</i> version on <b>Steam</b> provides a <i>user-friendly</i> alternative and it offers a polished and updated experience.
 
+My unwavering devotion towards Quake is undoubtedly deep. It holds a profound <b>emotional</b> significance for me, and even now, it has the power to <b>resonate</b> with the <b>deepest</b> chords of my heart, evoking a sense of <b>nostalgia</b> and tenderness. It's astounding how the distinctive <b>style</b>, <b>aesthetic</b>, and gameplay continue to <b>captivate</b> me, despite how old and "outdated" it is. 
+
+From the <b>gruesome</b> monsters to the meticulously crafted maps, the immersive <i>Lovecraftian</i> environments, the atmospheric ambiance, the iconic <b>arsenal</b> of weapons and their respective sounds – every element of Quake contributes to its timeless <b>allure</b>.
+
+<br>
+
+Alright, listen up! If you haven't taken the <b>plunge</b> into Quake 1 yet, but you're ready to roll the dice, give it a shot! I'm sure it won't disappoint!
+
+With the right mods and <b>attitude</b>, playing Quake 1 can be an <b>absolute blast</b>. And for someone into those <b>old-school</b> Doom games...what are you waiting for? Jump right in, <i>buddy</i>! :)
