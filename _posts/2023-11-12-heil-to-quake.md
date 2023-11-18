@@ -55,6 +55,12 @@ My unwavering devotion towards Quake is undoubtedly deep. It holds a profound <b
 From the <b>gruesome</b> monsters to the meticulously crafted maps, the immersive <i>Lovecraftian</i> environments, the atmospheric ambiance, the iconic <b>arsenal</b> of weapons and their respective sounds – every element of Quake contributes to its timeless <b>allure</b>.
 
 <br>
+<img src="https://media.moddb.com/images/mods/1/45/44264/ad_v1_80_moddb.png" height="500"><br>
+<br>
+<img src="https://images.ctfassets.net/rporu91m20dc/k9TpPcsLwbWCed8B1MiKr/76fe6ec0846c5178d91274152e0f213b/QUAKE_UDOB_in-body_end-1.jpg" height="400"><br>
+<br>
+<img src="https://media.moddb.com/images/mods/1/45/44264/ad_sepulcher2a.jpg" height="500"><br>
+<br><br>
 
 Alright, listen up! If you haven't taken the <b>plunge</b> into Quake 1 yet, but you're ready to roll the dice, give it a shot! I'm sure it won't disappoint!
 
