@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Heil To Quake
-image: "https://jovial-platypus-b91c44.netlify.app/egs_quake_idsoftwarenightdivestudios_s1_2560x1440-b31ed6ea4d89261b0556846ffd842d67.jpeg"
+image: "/img/source/heiltoquake/quake1.jpeg"
 ---
 
 In the realm of <b>classic</b> first-person <b>shooters</b>, my enduring passion traces its <b>roots</b> back to <i>1996</i> with the iconic game <b>Quake</b> developed by <b>id Software</b>. Over the years, my infatuation with this timeless <b>masterpiece</b> has only deepened, leading me to revisit its virtual landscapes pretty much on a <b>regular</b> basis. 
@@ -12,7 +12,7 @@ I personally consider it to be the <b>progenitor</b> of <b>contemporary</b> firs
 This detail <b>underscores</b> its profound <b>impact</b>, as its engine served as the technological <b>backbone</b> for one of the most <b>influential</b> and groundbreaking titles of its time.
 
 <br>
-<img src="https://jovial-platypus-b91c44.netlify.app/egs_quake_idsoftwarenightdivestudios_s1_2560x1440-b31ed6ea4d89261b0556846ffd842d67.jpeg" height="300">
+<img src="/img/source/heiltoquake/quake1.jpeg" height="300">
 <br><br>
 
 I first started my journey as a kid with Quake III Arena, getting constantly hammered by bots on easy difficulty! Then I stumbled upon Quake 1 and instantly became <b>smitten</b> with it. I kept going with the second installment and later delved into the multiplayer world of Quake Live. The entire Quake series means a lot to me, but<i> Quake 1</i> still reigns <b>supreme</b> in my heart.
@@ -23,9 +23,9 @@ This piece of software is not just a game for me; it's a mix of <b>memories</b> 
 It's not rare for me to contemplate how adeptly this game <b>encapsulates</b> nearly everything I <b>appreciate</b> and hold dear.
 
 <br>
-<img src="https://jovial-platypus-b91c44.netlify.app/f01724fb3ebdd7e7c3193cdd4cefa31f.jpg" height="400">
+<img src="/img/source/heiltoquake/quake2.jpg" height="400">
 <br><br>
-<img src="https://rainbow-meerkat-81b5a9.netlify.app/quake_reloaded__the_monsters_by_hellraptorstudios_dgah7pf-fullview.jpg" height="350">
+<img src="/img/source/heiltoquake/quake3.jpg" height="350">
 <br>
 
 Despite being not as popular as his older brother <b>Doom</b>, it brings me joy to witness the ongoing <b>enthusiasm</b> and activity within this game's community, particularly among <b>mod</b> developers. Their dedication to crafting and delivering extraordinary experiences, exemplified by projects like Quake 1.5/<b>Combat</b>+, <b>Epsilon</b>, and a favorite of mine, <b>Peril</b>, is truly <b>commendable</b>. 
@@ -37,12 +37,12 @@ I highly suggest you download either <b>Quakespasm</b> Spiked or <b>Iron Wail</b
 You can download it on <b><a href="https://www.moddb.com/mods/peril">ModDB</a></b>.
 <br><br>
 
-<img src="https://rainbow-meerkat-81b5a9.netlify.app/prison_2023-11-11_18-41-14.png" height="400">
+<img src="/img/source/heiltoquake/quake4.png" height="400">
 <br>
 <br>
-<img src="https://rainbow-meerkat-81b5a9.netlify.app/start_2023-11-12_21-58-29.png" height="400"><br>
+<img src="/img/source/heiltoquake/quake5.png" height="400"><br>
 <br>
-<img src="https://rainbow-meerkat-81b5a9.netlify.app/lava_2023-11-12_15-08-54.png" height="400">
+<img src="/img/source/heiltoquake/quake6.png" height="400">
 
 <br><br>
 
