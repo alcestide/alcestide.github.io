@@ -5,8 +5,6 @@ It has a **presentation** page, a **blog** and a **contacts** one. Not entirely 
 
 I keep all my main *social links* here, including my e-mail and a bunch of other stuff.
 
-Hosted here on **GitHub Pages** and mapped through CNAME record to https://alcestide.com.
-
 ## Screenshots
 
 ![firefox_zbiw5vP08Z](https://github.com/alcestide/alcestide.github.io/assets/106203061/eb483805-6c17-4c26-8d90-d34dbf3501d0)
