@@ -284,6 +284,27 @@ html,body{
 		
 	}
 
+	.fa-coffee{
+
+	color:white;
+	background: black;
+	height:70px;
+	width:70px;
+	font-size: 300%
+
+	}
+
+
+	.fa-book{
+
+	color:white;
+	background: black;
+	height:70px;
+	width:70px;
+	font-size: 300%
+
+	}
+
 	.btn-transparent{
 	background:transparent;
 	border-radius:20px;
