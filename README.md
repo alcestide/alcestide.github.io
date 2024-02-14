@@ -1,12 +1,14 @@
 # Alcestide.com
-Personal website managed with **Jekyll**. Nothing really impressive, but it's my style and I quite like it.
+Welcome to my personal playground, built with the magic of **Jekyll**! It's still a constant work in progress, but it's already a **comfortable den** where I can dwell in peace: this space isn't just _pixels_ and _code_; it's an **aspiration**. I dream of transforming it into a **vibrant** **portfolio**, showcasing my creative **endeavors** and diverse skillset. So, watch this space for exciting **updates**!
 
-It has a **presentation** page, a **blog** and a **contacts** one. Not entirely *polished* but I've recently finished the very first version and I'm fine with it for now. I'd like to transform it into a proper **portfolio** in due time (which probably means never), a place where I can *showcase* my **projects** and general **skillset**. 
+- **Introduce Myself:** Explore my **background**, **passions**, and what makes me tick through the "_Presentation_" page.
+- **Share My Thoughts**: Join me on my intellectual journey through the "**_Blog_**" section, where I ponder, express, and create.
+- **Connect with You**: Let's chat! Drop me a line on the "_Contact_" page or find me on various online platforms.
 
-I keep all my main *social links* here, including my e-mail and a bunch of other stuff.
+## Contributing
+
+Feel the urge to roll up your sleeves and write some code? Fantastic! **Fork** the repository, make your changes, and submit a pull request. I'll review your contribution with open minds and **appreciate** your effort, even if it doesn't get merged directly.
 
 ## Screenshots
-
-![firefox_zbiw5vP08Z](https://github.com/alcestide/alcestide.github.io/assets/106203061/eb483805-6c17-4c26-8d90-d34dbf3501d0)
-![firefox_OhxMs4gmow](https://github.com/alcestide/alcestide.github.io/assets/106203061/d09ee28e-6f9e-415d-811a-e1dbc18a0b34)
-![firefox_OW7YfytH2p](https://github.com/alcestide/alcestide.github.io/assets/106203061/5a2b4f6e-4f97-4961-a265-e6ee464fb077)
+![2024-02-14_15-49](https://github.com/alcestide/alcestide.github.io/assets/106203061/70e5a610-f003-4f36-99a4-553dd2c33366)
+![2024-02-14_15-50](https://github.com/alcestide/alcestide.github.io/assets/106203061/9b1c916b-3799-4e61-8e4f-122278fb4041)
