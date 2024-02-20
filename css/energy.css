@@ -4,7 +4,7 @@
   --main-color: #fff;
   --main-color-semitransparent: rgba(255, 255, 255, 0.5);
   --canvas-size: 40vmin;
-  --canvas-max-size: 250px;
+  --canvas-max-size: 300px;
   --animation-duration: 1200ms;
   --animation-delay: 120ms;
 }
