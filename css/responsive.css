@@ -1,16 +1,23 @@
+@media (min-width: 1200px){
+    .entirebody p {
+        margin-left: 30rem;
+        margin-right: 30rem;
+    }
+    img {
+        width: 550px;
+    }
+}
+
 @media (min-width: 992px) and (max-width: 1199px) {
 
     body {
         font-size: 15px;
         
-    } 
+    }
     
     img {
-        width: 100%;
-        height: auto;
-
+        width: 300px;
     }
-
 
 }
 
@@ -19,7 +26,7 @@
         font-size: 90%;
 
         img {
-            width: 100%;
+            width: 400px;
             height: auto;
           }
 
@@ -41,7 +48,7 @@
 	margin-bottom:5px;
     }
     img {
-        width: 100%;
+        width: 400px;
         height: auto;
       }
 
@@ -75,7 +82,7 @@
 	margin-bottom:5px;
     }
     img {
-        width: 100%;
+        width: 400px;
         height: auto;
       }
 
