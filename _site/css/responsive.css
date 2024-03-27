@@ -1,40 +1,30 @@
-@media (min-width: 1200px){
-    .entirebody p {
-        margin-left: 30rem;
-        margin-right: 30rem;
-    }
-    img {
-        width: 550px;
-    }
-}
 
-@media (min-width: 992px) and (max-width: 1199px) {
+@media (min-width: 992px) {
 
     body {
         font-size: 15px;
         
     }
-    
-    img {
-        width: 300px;
-    }
-
+  img {
+        width: 320px;
+        height: auto;
+      }
 }
 
 @media  (max-width: 991px) {
     html {
         font-size: 90%;
 
-        img {
-            width: 400px;
-            height: auto;
-          }
-
+       
     .entirebody p {
         margin-left: 10rem;
         margin-right: 10rem;
     }
     }
+ img {
+            width: 300px;
+            height: auto;
+          }
 
 }
 
@@ -48,7 +38,7 @@
 	margin-bottom:5px;
     }
     img {
-        width: 400px;
+        width: 100%;
         height: auto;
       }
 
@@ -82,7 +72,7 @@
 	margin-bottom:5px;
     }
     img {
-        width: 400px;
+        width: 100%;
         height: auto;
       }
 
@@ -137,6 +127,10 @@
     .header{
         background-position: 100%
     }
+  img {
+        width: 150px;
+        height: auto;
+      }
 
 } 
 
@@ -148,7 +142,10 @@
         min-height:100px;
 
     }
-
+  img {
+        width: 200px;
+        height: auto;
+      }
     p {
         margin-left: 10rem;
         margin-right: 10rem;
