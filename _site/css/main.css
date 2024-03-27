@@ -83,7 +83,7 @@ font-size: 17px;
 font-weight:600;
 
 }
-.entirebody p {
+.hydra p {
 
 	color: white;
 	font-size:20px;
@@ -95,7 +95,7 @@ font-weight:600;
 		margin-right: 35rem
 }
 
-.entirebody h2 {
+.hydra h2 {
 	color:white;
 	text-align:center;
 	font-size: 32px;
@@ -107,7 +107,7 @@ font-weight:600;
 
 }
 
-.entirebody h3 {
+.hydra h3 {
 	color:white;
 	text-align:center;
 	font-size: 18px;
@@ -119,7 +119,7 @@ font-weight:600;
 	margin-right: 50px
 }
 
-.entirebody iframe {
+.hydra iframe {
 
 	text-align:center;
 }
@@ -130,6 +130,8 @@ button {
 
 
 img {
+    display: block;
+    margin: 0 auto;
 	-webkit-filter: grayscale(100%);
 	filter: grayscale(100%);
   }
@@ -196,7 +198,7 @@ html,body{
   50% { transform:scale(1.2)}
 }
 
-   .main_header
+   .bull
    {
 	   text-align:center;
 	   margin-top: 15px;
@@ -206,20 +208,20 @@ html,body{
 	   letter-spacing:1px
 	}
 
-	.main_header h2
+	.bull h2
 	{
 		font-size:60px;
 		font-family:'stackyard_personal_useregular';
 
 	}
-	.main_header h3
+	.bull h3
 	{
 		font-size: 45px;
 		letter-spacing: 18px;
 		font-family: 'Lato', sans-serif;
 		text-transform: uppercase;
 	}
-	.main_header p
+	.bull p
 	{
 		font-size:18px;
 		font-family: 'night_still_comesregular';
